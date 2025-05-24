@@ -1,0 +1,60 @@
+{
+  "ulke": "Turkiye",
+  "sehir": "Istanbul",
+  "havaalani": "IST",
+  "aktifMi": true
+}
+{
+  "ulke": "Almanya",
+  "sehir": "Berlin",
+  "havaalani": "BER",
+  "aktifMi": true
+}
+{
+  "ulke": "Fransa",
+  "sehir": "Paris",
+  "havaalani": "CDG",
+  "aktifMi": true
+}
+{
+  "ulke": "Italya",
+  "sehir": "Roma",
+  "havaalani": "FCO",
+  "aktifMi": true
+}
+{
+  "ulke": "Ispanya",
+  "sehir": "Madrid",
+  "havaalani": "MAD",
+  "aktifMi": true
+}
+{
+  "ulke": "Hollanda",
+  "sehir": "Amsterdam",
+  "havaalani": "AMS",
+  "aktifMi": true
+}
+{
+  "ulke": "ABD",
+  "sehir": "New York",
+  "havaalani": "JFK",
+  "aktifMi": true
+}
+{
+  "ulke": "Japonya",
+  "sehir": "Tokyo",
+  "havaalani": "NRT",
+  "aktifMi": true
+}
+{
+  "ulke": "Kanada",
+  "sehir": "Toronto",
+  "havaalani": "YYZ",
+  "aktifMi": true
+}
+{
+  "ulke": "Brezilya",
+  "sehir": "Sao Paulo",
+  "havaalani": "GRU",
+  "aktifMi": true
+}
